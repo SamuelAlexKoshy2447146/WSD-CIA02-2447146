@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="travel.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<locations>
+    <location>
+        <name>Patna</name>
+        <city>Hyderabad</city>
+        <country>India</country>
+        <description>Fun place to visit</description>
+    </location>
+    <location>
+        <name>Louvre</name>
+        <city>Paris</city>
+        <country>Italy</country>
+        <description>Museum</description>
+    </location>
+    <location>
+        <name>Himalayas</name>
+        <city>Himachal Pradesh</city>
+        <country>India, Nepal</country>
+        <description>Cold mountains</description>
+    </location>
+</locations>
